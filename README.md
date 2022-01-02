@@ -26,7 +26,7 @@
   
   - Fig. PSI across all manufacturing lots
   
-  ![lot_summary](https://user-images.githubusercontent.com/90361056/147864804-175209c5-5850-4965-a179-e272ea08f76f.JPG)
+![t_test_all](https://user-images.githubusercontent.com/90361056/147864841-da540d08-0e78-497b-aa53-53da495288da.JPG)
 
   - Fig. t-test for each manufacturing lot
 
