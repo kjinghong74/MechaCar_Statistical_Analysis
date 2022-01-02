@@ -44,6 +44,7 @@
 
 ## Study Design: MechaCar vs Competition
   To address how the MechaCar performs against the competitor vehicles, I think there are several metrics that consumers are intested when they decide to buy cars. The popular metrics of interest will be cost, fuel efficiency, maintenance cost and safety rating. So, we need collect data of those metrics from competitor vehicles and do the statistical comparision of whether the sales of the cars is correlated to those metrics. The null hypothesis and alternative hypothesis will be:
+  
   H0 : There is no difference in cost, fuel efficiency, maintenance cost and safety rating between MechaCar and competitor vehicles.
 
   Ha : There is a difference in cost, fuel efficiency, maintenance cost and safety rating between MechaCar and competitor vehicles.
