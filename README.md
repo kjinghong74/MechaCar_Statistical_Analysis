@@ -31,7 +31,6 @@
 ![t_test_all](https://user-images.githubusercontent.com/90361056/147864841-da540d08-0e78-497b-aa53-53da495288da.JPG)
 
 
-
   Student-t test is used to analyze Whether PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds PSI, and the t-test results are shown in below figures. The p-values show that the PSI values of both manufacturing lot1 and lot2 are not different from the population mean, only the PSI of manufacturing lot3 is significant from population mean (p=0.04).
 
   - Fig. t-test for each manufacturing lot
@@ -42,3 +41,11 @@
 
 ![t_test_lot3](https://user-images.githubusercontent.com/90361056/147864822-f15bb3c3-20e9-4277-a34b-0ba18494e7bd.JPG)
 
+
+## Study Design: MechaCar vs Competition
+  To address how the MechaCar performs against the competitor vehicles, I think there are several metrics that consumers are intested when they decide to buy cars. The popular metrics of interest will be cost, fuel efficiency, maintenance cost and safety rating. So, we need collect data of those metrics from competitor vehicles and do the statistical comparision of whether the sales of the cars is correlated to those metrics. The null hypothesis and alternative hypothesis will be:
+  H0 : There is no difference in cost, fuel efficiency, maintenance cost and safety rating between MechaCar and competitor vehicles.
+
+  Ha : There is a difference in cost, fuel efficiency, maintenance cost and safety rating between MechaCar and competitor vehicles.
+  
+ Because data will be collected from multiple comeptitors, we're interested in comparing the means across several groups of data, so we can use the analysis of variance (ANOVA) test to test our hypothesis. 
