@@ -22,4 +22,17 @@
   
   ![lot_summary](https://user-images.githubusercontent.com/90361056/147862009-775993b9-9b38-4aa9-ba9d-757517ea3685.JPG)
 
+  ## T-Tests on Suspension Coils
   
+  - Fig. PSI across all manufacturing lots
+  
+  ![lot_summary](https://user-images.githubusercontent.com/90361056/147864804-175209c5-5850-4965-a179-e272ea08f76f.JPG)
+
+  - Fig. t-test for each manufacturing lot
+
+![t_test_lot1](https://user-images.githubusercontent.com/90361056/147864809-a17715e7-39eb-488e-b2e4-ec925f7fc7a0.JPG)
+
+![t_test_lot2](https://user-images.githubusercontent.com/90361056/147864815-2beb6601-1e12-4640-89ea-b9507b231f14.JPG)
+
+![t_test_lot3](https://user-images.githubusercontent.com/90361056/147864822-f15bb3c3-20e9-4277-a34b-0ba18494e7bd.JPG)
+
