@@ -28,6 +28,10 @@
   
 ![t_test_all](https://user-images.githubusercontent.com/90361056/147864841-da540d08-0e78-497b-aa53-53da495288da.JPG)
 
+From the above attached figure, we can see that the p-value for PSI across all manufacturing lots is 0.06, which is close to statistically different (p<0.05) from the population mean of 1,500 pounds per square inch.
+
+Student-t test is used to analyze Whether PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds PSI, and the t-test results are shown in below figures. The p-values show that the PSI values of both manufacturing lot1 and lot2 are not different from the population mean, only the PSI of manufacturing lot3 is significant from population mean (p=0.04).
+
   - Fig. t-test for each manufacturing lot
 
 ![t_test_lot1](https://user-images.githubusercontent.com/90361056/147864809-a17715e7-39eb-488e-b2e4-ec925f7fc7a0.JPG)
